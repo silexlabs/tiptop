@@ -54,7 +54,12 @@
 .shadow{
     box-shadow: 0 2px 3px 0px rgba(0, 0, 0, 0.16);
 }
-
+.fixed-menu{
+    position: fixed !important;
+    top: 0 !important;
+    z-index: 1000;
+    border-radius: 0 !important;
+}
 .element-0{
 	background-color: rgb(255, 255, 255); width: 980px; height: 3244px; position: absolute; top: 20px; left: 30px;
 }
