@@ -1,14 +1,14 @@
 #Tip top Silex template
 
-[See the template live here](http://tiptop.github.io/)
+[See the template live here](http://silexlabs.github.io/tiptop)
 
 ##What is this?
 
-This is a free template for [Silex, live web creation](http://www.silex.me), the HTML editor and website builder for designers. Here is how it looks like: [tip top template](http://tiptop.github.io/).
+This is a free template for [Silex, live web creation](http://www.silex.me), the HTML editor and website builder for designers. Here is how it looks like: [tip top template](http://silexlabs.github.io/tiptop).
 
 ##How to customize it for your website?
 
-Download the [zip file on github](https://github.com/lexoyo/tiptop) and unzip it to a folder in your dropbox. Then [open Silex in a browser](http://www.silex.me/silex) and open the template file "editable.html". 
+Download the [zip file on github](https://github.com/silexlabs/tiptop) and unzip to a folder in your dropbox. Then [open Silex in a browser](http://www.silex.me/silex) and open the template file "editable.html". 
 
 Then insert your content, modify the design and use it for your website.
 
